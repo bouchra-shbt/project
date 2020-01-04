@@ -1,0 +1,10 @@
+0.0 Creates test
+200.01999999999998 testmaitre: exiting ...
+
+40.01 maitre Sending back -8.0, at time = 40.01
+40.01 maitre: receive -30.0, at time = 40.01
+40.01 maitre Sending back -8.0, at time = 40.01
+40.01 maitre: receive 4.0, at time = 40.01
+40.01 maitre Sending back -8.0, at time = 40.01
+120.03 maitre: receive 3.0, at time = 120.03
+120.03 maitre Sending back -8.0, at time = 120.03
